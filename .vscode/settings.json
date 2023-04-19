@@ -1,0 +1,11 @@
+{
+  "background.fullscreen": {
+    "image": "https://pathtoimage.png", // url of your image
+    "background.customImages": [
+      "file://C:/xampp/htdocs/belajarci/assets/brand/logo.png"
+    ],
+    "opacity": 0.91, // 0.85 ~ 0.95 recommended
+    "size": "cover" // also css, `cover` to self-adaption (recommended)，or `contain`、`200px 200px`
+  },
+  "editor.fontSize": 15
+}
